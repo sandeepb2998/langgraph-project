@@ -1,0 +1,9 @@
+# Core LangChain packages
+langchain-core>=0.1
+langchain-openai>=0.1
+langchain-experimental>=0.0.2
+# LangGraph for orchestrating agents
+langgraph>=0.0.10
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.0.0  # required for reading Excel files via pandas 

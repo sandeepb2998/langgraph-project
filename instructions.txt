@@ -1,0 +1,2 @@
+The dataset is located at sample_data.xlsx and contains the columns Name and DateOfBirth.
+Your task is to create a new column called Age that calculates each person's age in years from their date of birth. Save the result to sample_data_withage.xlsx. 
